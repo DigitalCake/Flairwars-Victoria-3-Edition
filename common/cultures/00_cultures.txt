@@ -1,0 +1,110 @@
+lazhan= {
+	color= rgb{ 119 121 235 }
+	religion = dawnism
+	heritage = heritage_blue
+	language = language_azurite
+
+	obsessions = {
+		
+	}
+
+	traditions = { }
+	male_common_first_names = {
+		TestMC
+	}
+	female_common_first_names = {
+		TestFC
+	}
+	noble_last_names = {
+		TestN
+	}
+	common_last_names = {
+		TestC
+	}
+
+	male_regal_first_names = {
+		TestM
+	}
+	female_regal_first_names = {
+		TestF
+	}
+
+	graphics = european
+	ethnicities = {
+		1 = caucasian
+	}
+}
+
+qadoi= {
+	color= rgb{ 63 66 222 }
+	religion = dawnism
+	heritage = heritage_blue
+	language = language_qadoi
+
+	obsessions = {
+		
+	}
+
+	traditions = { }
+	male_common_first_names = {
+		TestMC
+	}
+	female_common_first_names = {
+		TestFC
+	}
+	noble_last_names = {
+		TestN
+	}
+	common_last_names = {
+		TestC
+	}
+
+	male_regal_first_names = {
+		TestM
+	}
+	female_regal_first_names = {
+		TestF
+	}
+
+	graphics = european
+	ethnicities = {
+		1 = caucasian
+	}
+}
+
+ausvani= {
+	color= rgb{ 18 205 252 }
+	religion = dawnism
+	heritage = heritage_blue
+	language = language_cyanic
+
+	obsessions = {
+		
+	}
+
+	traditions = { }
+	male_common_first_names = {
+		TestMC
+	}
+	female_common_first_names = {
+		TestFC
+	}
+	noble_last_names = {
+		TestN
+	}
+	common_last_names = {
+		TestC
+	}
+
+	male_regal_first_names = {
+		TestM
+	}
+	female_regal_first_names = {
+		TestF
+	}
+
+	graphics = european
+	ethnicities = {
+		1 = caucasian
+	}
+}
